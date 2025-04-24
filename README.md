@@ -63,7 +63,7 @@ The **Subdivision Controller** is a Blender addon that allows you to manage subd
 ---
 
 ## 🎓 Tutor
-- YouTube: [[AwakenIdiotic](https://youtu.be/RliszHmfUIk)
+- YouTube: [https://youtu.be/RliszHmfUIk](https://youtu.be/RliszHmfUIk)
 
 ---
 
