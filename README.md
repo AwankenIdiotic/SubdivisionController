@@ -37,7 +37,7 @@ The **Subdivision Controller** is a Blender addon that allows you to manage subd
 ## 🧩 How to Use
 
 ### 📍 Create a Controller
-- In the `Add > Empty` menu (or Object menu), choose **Subdivision Controller**.
+- In the `Add > Create Sundivide Controller` menu (or Object menu), choose **Subdivision Controller**.
 
 ### 🗂 Set Targets
 - In the controller object’s panel (`Object Properties` tab):
@@ -59,6 +59,11 @@ The **Subdivision Controller** is a Blender addon that allows you to manage subd
 
 - Target string: `House, Props, Table001`
 - Control the subdivision of everything inside `Props` collection and object `Table001`.
+
+---
+
+## 🎓 Tutor
+- YouTube: [[AwakenIdiotic](https://youtu.be/RliszHmfUIk)
 
 ---
 
