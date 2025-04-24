@@ -72,5 +72,6 @@ MIT License – Free to use, modify, and distribute.
 
 - Portfolio: [https://idiotic.artstation.com](https://idiotic.artstation.com)
 - YouTube: [AwakenIdiotic](https://youtube.com/@AwakenIdiotic)
+- Gumroad: [https://awakenidiotic.gumroad.com/l/SubdController](https://awakenidiotic.gumroad.com/l/SubdController)
 
 Enjoy controlling your subdivision chaos 😎
