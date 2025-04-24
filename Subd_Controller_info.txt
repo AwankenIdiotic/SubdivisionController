@@ -1,0 +1,31 @@
+Subdivision Controller [Blender Add-on][2025]
+
+Subdivision Controller for Blender
+Take full control of subdivision levels across multiple objects in your Blender scene — all from a single controller.
+
+Subdivision Controller is a powerful yet easy-to-use Blender add-on designed to streamline your workflow when working with subdivision surface modifiers. Whether you are managing complex scenes or optimizing viewport performance, this tool provides centralized control, saving time and reducing manual tasks.
+
+Features:
+Global Subdivision Control: Adjust viewport and render subdivision levels for multiple objects or collections from one controller object.
+
+Supports Collections & Object Hierarchies: Apply changes to selected collections, individual objects, and their child meshes.
+
+Smart Modifier Management: Automatically add, update, or remove subdivision modifiers across your selected targets.
+
+Live Statistics Panel: Instantly see how many objects have subdivision applied in the target list.
+
+One-Click Target Selection: Quickly populate the target field with selected objects or collections from the Outliner.
+
+Use Cases:
+Optimize heavy scenes by lowering subdivision for viewport preview.
+
+Easily toggle subdivision levels for rendering without manually adjusting each object.
+
+Add missing subdivision modifiers consistently to multiple models.
+
+Compatibility:
+Blender 4.2 and above
+
+Created by Awaken Idiotic
+
+blender addon, blender tools, subdivision controller, blender modifier, blender workflow, 3d modeling, blender script, subdivision surface, blender scene management, blender developer tools
